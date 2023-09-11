@@ -8,6 +8,7 @@ This repository contains a serverless function that leverages OpenAI's API to ge
 - Built using the Vercel serverless framework.
 - Utilizes OpenAI's powerful language processing capabilities for enhanced user interactions.
 - Easy deployment on Vercel's platform for fast and scalable execution.
+- Small Change
 
 ## Getting Started
 
